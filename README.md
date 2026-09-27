@@ -1,3 +1,8 @@
+### Hey, I'm Lupino
+
+A tech enthusiast and software engineer who specializes in Minecraft plugins and fun side projects.
+
+---
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lllupino111@gmail.com) 
